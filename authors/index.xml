@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on AI Square</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on AI Square</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2023 17:13:55 +1000</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nicolas Duval</title>
+      <link>/authors/nicolas-duval/</link>
+      <pubDate>Thu, 19 Oct 2023 17:13:55 +1000</pubDate>
+      
+      <guid>/authors/nicolas-duval/</guid>
+      <description>With an impressive background as a seasoned software engineer boasting over 16 years of experience, Nicolas has made significant contributions to major software releases at industry giants like Autodesk and Adobe.
+Recognizing the potential for innovation and growth, Nicolas chose to take on the challenge of co-founding AI Square and become the CTO, applying his expertise to propel the company&amp;rsquo;s technological advancements.</description>
+    </item>
+    
+    <item>
+      <title>Louis Boka</title>
+      <link>/authors/louis-boka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/louis-boka/</guid>
+      <description>After playing a key role in four successful startups across Europe, America and Asia, Louis pivoted from engineering to become a founder, concentrating on sales as the CEO of AI Square.
+Over the course of his career, Louis collaborated with clients in a wide range of industries and regions, gaining deep insights into the challenges they face.
+This exposure not only allowed him to establish a diverse network of potential customers but also equipped him with the expertise to create customized value propositions for AI Square&amp;rsquo;s solutions, effectively boosting the company&amp;rsquo;s growth and reach.</description>
+    </item>
+    
+    <item>
+      <title>Mike Vance</title>
+      <link>/authors/mike-vance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mike-vance/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+    <item>
+      <title>Sage Kirk</title>
+      <link>/authors/sage-kirk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sage-kirk/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+  </channel>
+</rss>

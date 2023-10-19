@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest research on AI Square</title>
+    <link>/research/</link>
+    <description>Recent content in Latest research on AI Square</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Healthcare</title>
+      <link>/research/healthcare/</link>
+      <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
+      
+      <guid>/research/healthcare/</guid>
+      <description>AI-Enhanced 3D-Printed Prosthetics for Cranial Asymmetry In the world of healthcare, technological advancements are breaking new ground, and at the forefront of these innovations is the revolutionary field of AI-enhanced cranial care for infants with cranial asymmetry.
+Cranial asymmetry, a condition characterized by the misshaping of an infant&amp;rsquo;s skull, has historically been addressed with corrective helmets. However, the traditional approach to designing these helmets has been time-consuming and costly.
+Here, we dive into the groundbreaking techniques we&amp;rsquo;ve employed, integrating cutting-edge AI and 3D printing to create a faster, more cost-effective solution.</description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>/research/infrastructure/</link>
+      <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
+      
+      <guid>/research/infrastructure/</guid>
+      <description>In the realm of infrastructure and IoT, where hardware reigns supreme, the promise of predictive maintenance and cost efficiency is no longer a futuristic concept. We delve into the heart of this transformative technology that we are creating in collaboration with major ports in Asia.
+Enhanced Predictive Maintenance (Hardware Lifecycle Analysis): Along with predicting when a component might fail, the system continuously monitors the lifecycle of the hardware. It keeps a track record of when devices start to degrade in performance versus compared to its optimal specs.</description>
+    </item>
+    
+    <item>
+      <title>Logistics</title>
+      <link>/research/logistics/</link>
+      <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
+      
+      <guid>/research/logistics/</guid>
+      <description>Navigating a Sea of Information: Revolutionizing Global Shipping with AI The world of global shipping is a complex web where an avalanche of information converges from myriad sources - partners in the supply chain, clients, and the troves of internal data. This data, a heterogeneous mix of paper-based documents, digital files, and client-generated data, is the lifeblood of the industry, steering the colossal vessels carrying goods across the oceans.
+Yet, within this labyrinth of data, there lies a formidable challenge: ensuring that containers clear customs quickly and arrive at their intended destinations.</description>
+    </item>
+    
+  </channel>
+</rss>

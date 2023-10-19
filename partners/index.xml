@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partners on AI Square</title>
+    <link>/partners/</link>
+    <description>Recent content in Partners on AI Square</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 05:15:34 +0000</lastBuildDate><atom:link href="/partners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JMC</title>
+      <link>/partners/jmc/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/partners/jmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changi Airport Group</title>
+      <link>/partners/cag/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/partners/cag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3Si</title>
+      <link>/partners/3si/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/partners/3si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foxconn</title>
+      <link>/partners/foxconn/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/partners/foxconn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

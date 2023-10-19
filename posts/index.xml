@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on AI Square</title>
+    <link>/posts/</link>
+    <description>Recent content in Blog on AI Square</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing AI SQUARE</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Thu, 19 Oct 2023 17:13:55 +1000</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>Louis and I first crossed paths in 2011 while working at a startup in Montreal. Boasting backgrounds in computer graphics, our connection was almost immediate. Conversations ranged from the nitty-gritty of tech to broader, existential topics that questioned the very fabric of our reality.
+In 2013, life pulled us in different directions. I relocated to San Francisco while Louis made Singapore his new home. On touching down in SF, I was met with an avalanche of new tech jargon: cloud computing, node.</description>
+    </item>
+    
+  </channel>
+</rss>
