@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Careers on AI Square</title>
+    <link>/careers/</link>
+    <description>Recent content in Careers on AI Square</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/careers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning &amp; Computer Graphics engineer</title>
+      <link>/careers/ml_software_engineer/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/careers/ml_software_engineer/</guid>
+      <description>Company Overview At AI SQUARE, we&amp;rsquo;re at the intersection of machine learning&amp;rsquo;s vast potential and the limitless world of computer graphics. Pioneering and redefining boundaries, our goal is to produce immersive experiences that synthesize imagination with state-of-the-art technology.
+Position Machine Learning &amp;amp; Computer Graphics Engineer
+Location San Francisco or remote
+Role Overview As our Machine Learning &amp;amp; Computer Graphics Engineer, you&amp;rsquo;ll play a crucial role in blending advanced algorithms with dynamic visual content, translating ideas into real-world applications.</description>
+    </item>
+    
+    <item>
+      <title>Platform Engineer (SaaS) </title>
+      <link>/careers/platform-engineer/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/careers/platform-engineer/</guid>
+      <description>Company Overview At AI SQUARE, we&amp;rsquo;re at the intersection of machine learning&amp;rsquo;s vast potential and the limitless world of computer graphics. Pioneering and redefining boundaries, our goal is to produce immersive experiences that synthesize imagination with state-of-the-art technology.
+Position Platform Engineer (SaaS)
+Location San Francisco or remote
+Role Overview As our Platform Engineer, you will be pivotal in building, optimizing, and maintaining the robust SaaS platforms that power our innovative solutions.</description>
+    </item>
+    
+  </channel>
+</rss>
