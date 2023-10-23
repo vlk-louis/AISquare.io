@@ -6,7 +6,7 @@
     <description>Recent content in Latest research on AI Square</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Oct 2023 17:14:35 +1000</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Healthcare</title>
       <link>/research/healthcare/</link>
@@ -24,8 +24,9 @@ Here, we dive into the groundbreaking techniques we&amp;rsquo;ve employed, integ
       <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
       
       <guid>/research/infrastructure/</guid>
-      <description>In the realm of infrastructure and IoT, where hardware reigns supreme, the promise of predictive maintenance and cost efficiency is no longer a futuristic concept. We delve into the heart of this transformative technology that we are creating in collaboration with major ports in Asia.
-Enhanced Predictive Maintenance (Hardware Lifecycle Analysis): Along with predicting when a component might fail, the system continuously monitors the lifecycle of the hardware. It keeps a track record of when devices start to degrade in performance versus compared to its optimal specs.</description>
+      <description>Identifying the Challenges The realm of infrastructure, especially with its intrinsic integration with IoT devices, presents unique challenges.
+Traditional hardware maintenance predominantly functions on reactive measures. This method, although common, is increasingly seen as inefficient due to the unplanned downtimes it often results in, leading to elevated operational costs and underutilized opportunities.
+Investigating AI&amp;rsquo;s Potential in Infrastructure Our research is centered around exploring how Artificial Intelligence can be applied to transform this landscape.</description>
     </item>
     
     <item>
@@ -34,8 +35,9 @@ Enhanced Predictive Maintenance (Hardware Lifecycle Analysis): Along with predic
       <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
       
       <guid>/research/logistics/</guid>
-      <description>Navigating a Sea of Information: Revolutionizing Global Shipping with AI The world of global shipping is a complex web where an avalanche of information converges from myriad sources - partners in the supply chain, clients, and the troves of internal data. This data, a heterogeneous mix of paper-based documents, digital files, and client-generated data, is the lifeblood of the industry, steering the colossal vessels carrying goods across the oceans.
-Yet, within this labyrinth of data, there lies a formidable challenge: ensuring that containers clear customs quickly and arrive at their intended destinations.</description>
+      <description>Understanding the Data Conundrum in Shipping The global shipping landscape is emblematic of a vast ecosystem teeming with intricate data streams. This includes an amalgamation of supply chain partners, digital dossiers, paper-based records, and client inputs.
+Integral to the industry&amp;rsquo;s core, these data structures dictate everything from cargo allocation to destination routing.
+However, the key challenge is evident: the onus of ensuring that information remains accurate, verifiable, and actionable. The consequence of a mere data discrepancy could spiral into significant logistical errors, affecting trade routes and incurring substantial economic implications.</description>
     </item>
     
   </channel>

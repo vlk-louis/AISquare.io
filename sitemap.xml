@@ -21,21 +21,27 @@
     <lastmod>2018-11-28T05:15:34+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-10-22T17:13:55+10:00</lastmod>
+    <lastmod>2023-10-23T13:13:55+10:00</lastmod>
   </url><url>
     <loc>/posts/hello-world/</loc>
-    <lastmod>2023-10-22T17:13:55+10:00</lastmod>
+    <lastmod>2023-10-23T13:13:55+10:00</lastmod>
   </url><url>
     <loc>/authors/nicolas-duval/</loc>
-    <lastmod>2023-10-22T17:13:55+10:00</lastmod>
+    <lastmod>2023-10-23T13:13:55+10:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/careers/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/careers/ml_software_engineer/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/careers/platform-engineer/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/careers/ml_intern/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/about-us/</loc>
@@ -59,8 +65,11 @@
     <loc>/pages/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <loc>/information-integrity/</loc>
+    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
+  </url><url>
+    <loc>/research/</loc>
+    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
   </url><url>
     <loc>/partners/foxconn/</loc>
     <lastmod>2018-11-28T05:15:34+00:00</lastmod>
@@ -68,17 +77,14 @@
     <loc>/partners/</loc>
     <lastmod>2018-11-28T05:15:34+00:00</lastmod>
   </url><url>
-    <loc>/information-integrity/</loc>
-    <lastmod>2018-02-10T04:52:18+00:00</lastmod>
-  </url><url>
     <loc>/custom-page-2/</loc>
     <lastmod>2018-02-10T04:52:18+00:00</lastmod>
   </url><url>
     <loc>/custom-page-3/</loc>
     <lastmod>2018-02-10T04:52:18+00:00</lastmod>
   </url><url>
-    <loc>/research/</loc>
-    <lastmod>2018-02-10T11:52:18+07:00</lastmod>
+    <loc>/machine-learning-as-a-service/</loc>
+    <lastmod>2018-02-10T04:52:18+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
