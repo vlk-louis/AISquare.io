@@ -1,103 +1,102 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>/partners/jmc/</loc>
-    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
-  </url><url>
-    <loc>/research/healthcare/</loc>
-    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
-  </url><url>
-    <loc>/research/infrastructure/</loc>
-    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
-  </url><url>
-    <loc>/research/logistics/</loc>
-    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
-  </url><url>
-    <loc>/partners/cag/</loc>
-    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
-  </url><url>
-    <loc>/partners/3si/</loc>
-    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2023-10-23T13:13:55+10:00</lastmod>
-  </url><url>
-    <loc>/posts/hello-world/</loc>
-    <lastmod>2023-10-23T13:13:55+10:00</lastmod>
-  </url><url>
-    <loc>/authors/nicolas-duval/</loc>
-    <lastmod>2023-10-23T13:13:55+10:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/careers/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/careers/ml_software_engineer/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/careers/platform-engineer/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/careers/ml_intern/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/about-us/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/contact/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/custom-page-1/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/investors/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/our-approach/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/pages/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/information-integrity/</loc>
-    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
-  </url><url>
-    <loc>/research/</loc>
-    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
-  </url><url>
-    <loc>/partners/foxconn/</loc>
-    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
-  </url><url>
-    <loc>/partners/</loc>
-    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
-  </url><url>
-    <loc>/custom-page-2/</loc>
-    <lastmod>2018-02-10T04:52:18+00:00</lastmod>
-  </url><url>
-    <loc>/custom-page-3/</loc>
-    <lastmod>2018-02-10T04:52:18+00:00</lastmod>
-  </url><url>
-    <loc>/machine-learning-as-a-service/</loc>
-    <lastmod>2018-02-10T04:52:18+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/authors/louis-boka/</loc>
-  </url><url>
-    <loc>/authors/mike-vance/</loc>
-  </url><url>
-    <loc>/privacy/</loc>
-  </url><url>
-    <loc>/authors/sage-kirk/</loc>
-  </url><url>
-    <loc>/tags/</loc>
-  </url><url>
-    <loc>/works/</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://ai-square.io/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/about-us/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/our-approach/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/careers/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/investors/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/research/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/information-integrity/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/machine-learning-as-a-service/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/contact/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/posts/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/research/healthcare/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/research/infrastructure/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/research/logistics/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/careers/ml_software_engineer/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/careers/platform-engineer/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/careers/ml_intern/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/posts/hello-world/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ai-square.io/authors/nicolas-duval/</loc>
+  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
