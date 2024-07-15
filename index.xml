@@ -1,12 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on AI Square</title>
+    <title>AI Square&#39;s HyperSpeak - Revolutionize Your Meetings on AI Square</title>
     <link>/</link>
-    <description>Recent content in Home on AI Square</description>
+    <description>Recent content in AI Square&#39;s HyperSpeak - Revolutionize Your Meetings on AI Square</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nicolas Savva | CSO</title>
+      <link>/team/nicolassavva/</link>
+      <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
+      
+      <guid>/team/nicolassavva/</guid>
+      <description>Meet Nicolas Savva: A Visionary in Computer Graphics and AI Nicolas Savva, our Chief Science Officer and co-founder, brings unparalleled expertise from his tenure at Cornell University, where he earned his M.S./Ph.D., and briefly served as a lecturer. His exceptional capabilities have been recognized with the prestigious O-1 U.S. visa for individuals with extraordinary abilities.
+Academic Excellence and Professional Accomplishments Nicolas&amp;rsquo;s academic journey at Cornell University laid a strong foundation for his career.</description>
+    </item>
+    
+    <item>
+      <title>James Geddes</title>
+      <link>/team/jamesgeddes/</link>
+      <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
+      
+      <guid>/team/jamesgeddes/</guid>
+      <description>Meet James Geddes: Pioneering Engineer Driving Innovation at AI Square James Geddes is the Head of Engineering at AI Square, where he leverages his extensive expertise in software development, blockchain technology, and AI to propel the company&amp;rsquo;s groundbreaking solutions forward. With a career marked by innovation and excellence, James is a driving force behind AI Square&amp;rsquo;s mission to revolutionize the future of work, education, and communication.
+A Journey Through Technological Innovation James&amp;rsquo;s journey began at the University of Minnesota, where he played a pivotal role in advanced research on neutrino detection.</description>
+    </item>
+    
+    <item>
+      <title>Nicolas Duval | CTO</title>
+      <link>/team/nicolasduval/</link>
+      <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
+      
+      <guid>/team/nicolasduval/</guid>
+      <description>Meet Nicolas Duval: A Pioneer in Software Architecture and Innovation With a robust career spanning over 16 years, Nicolas Duval stands out as a beacon in the realms of software architecture, design, development, and management. His profound expertise in cloud computing, rapid prototyping, computer-aided design, machine learning, generative AI, and application development has paved the way for innovative breakthroughs in the field of software engineering.
+A Journey of Innovation Nicolas&amp;rsquo;s journey in the tech industry is marked by significant contributions and leadership roles at some of the world&amp;rsquo;s most renowned technology companies.</description>
+    </item>
+    
+    <item>
+      <title>Accenture</title>
+      <link>/partners/accenture/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/partners/accenture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Complete</title>
+      <link>/partners/codecomplete/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/partners/codecomplete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deloitte</title>
+      <link>/partners/deloitte/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/partners/deloitte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hutchinson</title>
+      <link>/partners/huchinston/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/partners/huchinston/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>JMC</title>
       <link>/partners/jmc/</link>
@@ -17,36 +83,40 @@
     </item>
     
     <item>
-      <title>Healthcare</title>
-      <link>/research/healthcare/</link>
-      <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
+      <title>Nissan</title>
+      <link>/partners/nissan/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
       
-      <guid>/research/healthcare/</guid>
-      <description>AI-Enhanced 3D-Printed Prosthetics for Cranial Asymmetry In the world of healthcare, technological advancements are breaking new ground, and at the forefront of these innovations is the revolutionary field of AI-enhanced cranial care for infants with cranial asymmetry.
-Cranial asymmetry, a condition characterized by the misshaping of an infant&amp;rsquo;s skull, has historically been addressed with corrective helmets. However, the traditional approach to designing these helmets has been time-consuming and costly.
-Here, we dive into the groundbreaking techniques we&amp;rsquo;ve employed, integrating cutting-edge AI and 3D printing to create a faster, more cost-effective solution.</description>
+      <guid>/partners/nissan/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Infrastructure</title>
-      <link>/research/infrastructure/</link>
-      <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
+      <title>Nvidia Inception Member</title>
+      <link>/partners/nvidia/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
       
-      <guid>/research/infrastructure/</guid>
-      <description>Identifying the Challenges The realm of infrastructure, especially with its intrinsic integration with IoT devices, presents unique challenges.
-Traditional hardware maintenance predominantly functions on reactive measures. This method, although common, is increasingly seen as inefficient due to the unplanned downtimes it often results in, leading to elevated operational costs and underutilized opportunities.
-Investigating AI&amp;rsquo;s Potential in Infrastructure Our research is centered around exploring how Artificial Intelligence can be applied to transform this landscape.</description>
+      <guid>/partners/nvidia/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Logistics</title>
-      <link>/research/logistics/</link>
+      <title>Shibuya Startup Support</title>
+      <link>/partners/shibuya/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/partners/shibuya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Louis Boka | CEO</title>
+      <link>/team/louisboka/</link>
       <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
       
-      <guid>/research/logistics/</guid>
-      <description>Understanding the Data Conundrum in Shipping The global shipping landscape is emblematic of a vast ecosystem teeming with intricate data streams. This includes an amalgamation of supply chain partners, digital dossiers, paper-based records, and client inputs.
-Integral to the industry&amp;rsquo;s core, these data structures dictate everything from cargo allocation to destination routing.
-However, the key challenge is evident: the onus of ensuring that information remains accurate, verifiable, and actionable. The consequence of a mere data discrepancy could spiral into significant logistical errors, affecting trade routes and incurring substantial economic implications.</description>
+      <guid>/team/louisboka/</guid>
+      <description>Meet Louis Boka: A Visionary in AI and Technology Louis Boka is a global citizen with a unique third-culture upbringing, driven by an insatiable quest to connect and understand diverse perspectives. From a young age, Louis was captivated by the immersive worlds of video games, which sparked his passion for design and technology. This fascination led him to delve into the world of computer graphics during his university years.
+The Professional Journey Stepping into the professional realm, Louis quickly realized the transformative power of technology in solving complex business challenges.</description>
     </item>
     
     <item>
@@ -64,6 +134,15 @@ However, the key challenge is evident: the onus of ensuring that information rem
       <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
       
       <guid>/partners/3si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epiq Global</title>
+      <link>/partners/epiq/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/partners/epiq/</guid>
       <description></description>
     </item>
     
@@ -114,12 +193,12 @@ Role Overview As our Machine Learning Intern, you will be an essential part of a
     </item>
     
     <item>
-      <title>About us</title>
+      <title>About Us</title>
       <link>/about-us/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>/about-us/</guid>
-      <description>&amp;ldquo;At AI Square, our philosophy is simple: Pioneering AI research for genuine, lasting impact&amp;rdquo; </description>
+      <description></description>
     </item>
     
     <item>
@@ -146,9 +225,7 @@ Role Overview As our Machine Learning Intern, you will be an essential part of a
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>/investors/</guid>
-      <description>Join us in our mission to revolutionize industries with cutting-edge AI! &amp;ldquo;Can you solve this problem with AI?&amp;rdquo; After hearing this from clients for years we decided it was time to start AI Square.
-We transform AI research into practical, sector-specific applications that yield measurable outcomes for our clients.
-Market size The AI market valued at $100 billion has witnessed unparalleled growth in recent years, proving to be an indispensable catalyst for global innovation and business transformation.</description>
+      <description></description>
     </item>
     
     <item>
@@ -163,16 +240,12 @@ Instead of developing solutions in isolation and pray for adoption, we work clos
     </item>
     
     <item>
-      <title>AI Information Integrity Platform</title>
+      <title>Inter-Link AI The Game-Changing AI Feature of HyperSpeak</title>
       <link>/information-integrity/</link>
       <pubDate>Mon, 16 Oct 2023 17:14:35 +1000</pubDate>
       
       <guid>/information-integrity/</guid>
-      <description>Imagine a World&amp;hellip; Where data, no matter its origin or format, is unified, correlated, and verified.
-Revolutionary Simplicity We didn&amp;rsquo;t just solve a tech puzzle; we pioneered a paradigm shift.
-Our platform is a commitment to ensuring that your data, whether handwritten, digital, or spoken, stands unified &amp;amp; unbreakable. Results Beyond Numbers Our impact Transcends the Digital, it changes the course of businesses.
-Reclaim thousands of hours.
-Dive deep into innovation.</description>
+      <description></description>
     </item>
     
     <item>

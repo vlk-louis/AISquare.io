@@ -1,102 +1,130 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://ai-square.io/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/about-us/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/our-approach/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/careers/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/investors/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/research/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/information-integrity/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/machine-learning-as-a-service/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/contact/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/posts/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/research/healthcare/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/research/infrastructure/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/research/logistics/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/careers/ml_software_engineer/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/careers/platform-engineer/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/careers/ml_intern/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/posts/hello-world/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ai-square.io/authors/nicolas-duval/</loc>
-  <lastmod>2023-10-23T08:16:18+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ai-square.io/team/nicolassavva/</loc>
+    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/team/jamesgeddes/</loc>
+    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/team/nicolasduval/</loc>
+    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/accenture/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/codecomplete/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/deloitte/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/huchinston/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/jmc/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/nissan/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/nvidia/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/shibuya/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/team/louisboka/</loc>
+    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/cag/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/3si/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/epiq/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/authors/</loc>
+    <lastmod>2023-10-23T13:13:55+10:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/posts/hello-world/</loc>
+    <lastmod>2023-10-23T13:13:55+10:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/authors/nicolas-duval/</loc>
+    <lastmod>2023-10-23T13:13:55+10:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/posts/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/careers/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/careers/ml_software_engineer/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/careers/platform-engineer/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/careers/ml_intern/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/about-us/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/contact/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/custom-page-1/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/investors/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/our-approach/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/pages/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/team/</loc>
+    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/information-integrity/</loc>
+    <lastmod>2023-10-16T17:14:35+10:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/foxconn/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/partners/</loc>
+    <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/custom-page-2/</loc>
+    <lastmod>2018-02-10T04:52:18+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/custom-page-3/</loc>
+    <lastmod>2018-02-10T04:52:18+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/machine-learning-as-a-service/</loc>
+    <lastmod>2018-02-10T04:52:18+00:00</lastmod>
+  </url><url>
+    <loc>https://ai-square.io/categories/</loc>
+  </url><url>
+    <loc>https://ai-square.io/authors/louis-boka/</loc>
+  </url><url>
+    <loc>https://ai-square.io/authors/mike-vance/</loc>
+  </url><url>
+    <loc>https://ai-square.io/privacy/</loc>
+  </url><url>
+    <loc>https://ai-square.io/authors/sage-kirk/</loc>
+  </url><url>
+    <loc>https://ai-square.io/tags/</loc>
+  </url><url>
+    <loc>https://ai-square.io/works/</loc>
+  </url>
 </urlset>
